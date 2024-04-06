@@ -57,6 +57,14 @@ See instructions on the [GitHub release page](https://github.com/catppuccin/user
    - Replacing `<name>` with the name of the userstyle.
 3. Enjoy!
 
+> [!TIP]
+> For decentralized or self-hosted applications, you can apply a theme to one or multiple instances across updates by following the instructions below.
+>
+> 1. Open the Stylus "Manage" page.
+> 2. Click on the userstyle's name in the list.
+> 3. Click on **Style settings** in the left panel.
+> 4. Enter the URL patterns for your instance(s) in the text box labeled **Custom included sites**.
+
 &nbsp;
 
 ## 👐 Contributing
@@ -82,12 +90,13 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md).
 - [Codeberg](styles/codeberg)
 - [GitHub](styles/github)
 - [Graphite](styles/graphite)
-- [Hackage](styles/hackage)
+- 🚧 [Hackage](styles/hackage)
 - [Hoppscotch](styles/hoppscotch)
 - [MDN](styles/mdn)
 - [Next.js](styles/nextjs)
 - [npm](styles/npm)
 - [paste.rs](styles/paste.rs)
+- [PyPI](styles/pypi)
 - [Vercel](styles/vercel)
 
 </details>
@@ -100,7 +109,7 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md).
 - [Google](styles/google)
 - [NixOS Search](styles/nixos-search)
 - [SearXNG](styles/searxng)
-- [Startpage](styles/startpage)
+- 🚧 [Startpage](styles/startpage)
 
 </details>
 <details open>
@@ -131,7 +140,7 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md).
 <details open>
 <summary>🎵 Music</summary>
 
-- [Hyperpipe](styles/hyperpipe)
+- 🚧 [Hyperpipe](styles/hyperpipe)
 - [Last.fm](styles/lastfm)
 - [Spotify Web](styles/spotify-web)
 
@@ -142,10 +151,11 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md).
 - [homepage](styles/homepage)
 - [inoreader](styles/inoreader)
 - [Microsoft Word](styles/microsoft-word)
-- [OpenMediaVault](styles/openmediavault)
+- [openmediavault](styles/openmediavault)
 - [Proton](styles/proton)
 - [Stylus](styles/stylus)
 - [Syncthing](styles/syncthing)
+- [tldraw](styles/tldraw)
 
 </details>
 <details open>
@@ -169,12 +179,13 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md).
 <summary>✨ Social Networking</summary>
 
 - [Bluesky Social](styles/bsky)
-- [Cinny](styles/cinny)
+- 🚧 [Cinny](styles/cinny)
 - [Elk](styles/elk)
 - [Instagram](styles/instagram)
 - [LinkedIn](styles/linkedin)
 - [Mastodon](styles/mastodon)
 - [Nitter](styles/nitter)
+- [Pronouns.page](styles/pronouns.page)
 - [Snapchat Web](styles/snapchat-web)
 - [Twitter](styles/twitter)
 - [WhatsApp Web](styles/whatsapp-web)
@@ -197,6 +208,7 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md).
 - [ChatReplay](styles/chatreplay)
 - [Holodex](styles/holodex)
 - 🚧 [Invidious](styles/invidious)
+- [Picrew](styles/picrew)
 - 🚧 [Substack](styles/substack)
 - [Twitch](styles/twitch)
 - [YouTube](styles/youtube)

@@ -53,9 +53,12 @@ npm: styles/npm/**/*
 openmediavault: styles/openmediavault/**/*
 paste.rs: styles/paste.rs/**/*
 perplexity: styles/perplexity/**/*
+picrew: styles/picrew/**/*
 pinterest: styles/pinterest/**/*
 planet-minecraft: styles/planet-minecraft/**/*
+pronouns.page: styles/pronouns.page/**/*
 proton: styles/proton/**/*
+pypi: styles/pypi/**/*
 quizlet: styles/quizlet/**/*
 reddit: styles/reddit/**/*
 searxng: styles/searxng/**/*
@@ -67,6 +70,7 @@ stylus: styles/stylus/**/*
 substack: styles/substack/**/*
 syncthing: styles/syncthing/**/*
 tabnews: styles/tabnews/**/*
+tldraw: styles/tldraw/**/*
 tuta: styles/tuta/**/*
 twitch: styles/twitch/**/*
 twitter: styles/twitter/**/*
